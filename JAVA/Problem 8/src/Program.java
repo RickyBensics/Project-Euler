@@ -12,7 +12,7 @@ public class Program
 {
 	public static void main (String[] args)
 	{
-		String filename = "bin/number.txt";	
+		String filename = "src/number.txt";	
 		int digit;
 		int i = 0;
 		int[] numbuffer = new int[1000];
